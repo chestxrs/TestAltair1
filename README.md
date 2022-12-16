@@ -1,4 +1,5 @@
 # TestAltair1
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 Автор работы:
 
 ученица 11 «Т» класса
