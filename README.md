@@ -1,6 +1,6 @@
 # TestAltair1
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
+![This is an image](https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_hedgehog.jpg)
 Автор работы:
 
 ученица 11 «Т» класса
